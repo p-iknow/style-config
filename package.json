@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-piknow",
+  "version": "0.0.0-development",
+  "description": "js, ts lint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p-iknow/style-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "config"
+  ],
+  "author": "p-iknow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p-iknow/style-config/issues"
+  },
+  "homepage": "https://github.com/p-iknow/style-config#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^19.0.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
