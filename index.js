@@ -56,6 +56,7 @@ module.exports = {
     ],
   },
   settings: {
+    // https://github.com/import-js/eslint-plugin-import#typescript
     "import/resolver": {
       typescript: true,
     },
