@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/p-iknow/style-config/compare/v1.1.0...v1.2.0) (2022-09-13)
+
+
+### Features
+
+* add with-next-js ([#7](https://github.com/p-iknow/style-config/issues/7)) ([04a7e6a](https://github.com/p-iknow/style-config/commit/04a7e6a22fde60051d9d81546d564ce753079bd1))
+
 # [1.1.0](https://github.com/p-iknow/style-config/compare/v1.0.0...v1.1.0) (2022-09-12)
 
 
