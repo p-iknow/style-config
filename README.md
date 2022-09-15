@@ -19,3 +19,12 @@ npx install-peerdeps --dev eslint-config-piknow
 npm install eslint-config-airbnb-base --save-dev
 
 ```
+
+## Usage with Next.js
+
+```
+npx install-peerdeps --dev eslint-config-airbnb-base
+npx install-peerdeps --dev eslint-config-piknow
+npm install eslint-config-airbnb-base --save-dev
+
+```
