@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/p-iknow/style-config/compare/v1.2.0...v1.2.1) (2022-09-15)
+
+
+### Bug Fixes
+
+* dev dependency ([#8](https://github.com/p-iknow/style-config/issues/8)) ([8258c36](https://github.com/p-iknow/style-config/commit/8258c367955e2b2c8b3291739b50ef15d31b09a6))
+
 # [1.2.0](https://github.com/p-iknow/style-config/compare/v1.1.0...v1.2.0) (2022-09-13)
 
 

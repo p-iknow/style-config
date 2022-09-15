@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-piknow",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "js, ts lint configuration",
   "main": "index.js",
   "scripts": {
