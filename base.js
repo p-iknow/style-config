@@ -34,9 +34,6 @@ module.exports = {
     ],
   },
   settings: {
-    "import/resolver": {
-      typescript: true,
-    },
     jest: {
       version: require('jest/package.json').version,
     },
