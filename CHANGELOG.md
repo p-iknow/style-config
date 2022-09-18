@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/p-iknow/style-config/compare/v1.3.0...v1.3.1) (2022-09-18)
+
+
+### Bug Fixes
+
+* update parser ([#10](https://github.com/p-iknow/style-config/issues/10)) ([68a8adf](https://github.com/p-iknow/style-config/commit/68a8adfa10e4c943180b42075492e9e7c0c1ce97))
+
 # [1.3.0](https://github.com/p-iknow/style-config/compare/v1.2.1...v1.3.0) (2022-09-18)
 
 
