@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/p-iknow/style-config/compare/v1.2.1...v1.3.0) (2022-09-18)
+
+
+### Features
+
+* delete peerdependency ([#9](https://github.com/p-iknow/style-config/issues/9)) ([2ac2839](https://github.com/p-iknow/style-config/commit/2ac2839ded29af161d0689031e50507fcb47428d))
+
 ## [1.2.1](https://github.com/p-iknow/style-config/compare/v1.2.0...v1.2.1) (2022-09-15)
 
 
