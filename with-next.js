@@ -18,6 +18,17 @@ module.exports = {
     // https://github.com/prettier/eslint-plugin-prettier#recommended-configuration
     "plugin:prettier/recommended",
   ],
+  env: {
+    node: true,
+    es2022: true,
+    jest: true,
+  },
+  parser: "@typescript-eslint/parser",
+  parserOptions: {
+    sourceType: "module",
+    ecmaVersion: "latest",
+    project: "./tsconfig.json",
+  },
   rules: {
     // https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/react-in-jsx-scope.md
     "react/react-in-jsx-scope": "off",
